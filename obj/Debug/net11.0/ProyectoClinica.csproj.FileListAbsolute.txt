@@ -1,0 +1,15 @@
+C:\Users\Bryan\OneDrive\Documentos\ues\ingienieria en sistemas\principuios de programacion\ClinicaMedicaDeEspecialidades_FIA\bin\Debug\net11.0\ProyectoClinica.exe
+C:\Users\Bryan\OneDrive\Documentos\ues\ingienieria en sistemas\principuios de programacion\ClinicaMedicaDeEspecialidades_FIA\bin\Debug\net11.0\ProyectoClinica.deps.json
+C:\Users\Bryan\OneDrive\Documentos\ues\ingienieria en sistemas\principuios de programacion\ClinicaMedicaDeEspecialidades_FIA\bin\Debug\net11.0\ProyectoClinica.runtimeconfig.json
+C:\Users\Bryan\OneDrive\Documentos\ues\ingienieria en sistemas\principuios de programacion\ClinicaMedicaDeEspecialidades_FIA\bin\Debug\net11.0\ProyectoClinica.dll
+C:\Users\Bryan\OneDrive\Documentos\ues\ingienieria en sistemas\principuios de programacion\ClinicaMedicaDeEspecialidades_FIA\bin\Debug\net11.0\ProyectoClinica.pdb
+C:\Users\Bryan\OneDrive\Documentos\ues\ingienieria en sistemas\principuios de programacion\ClinicaMedicaDeEspecialidades_FIA\obj\Debug\net11.0\ProyectoClinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\OneDrive\Documentos\ues\ingienieria en sistemas\principuios de programacion\ClinicaMedicaDeEspecialidades_FIA\obj\Debug\net11.0\ProyectoClinica.AssemblyInfoInputs.cache
+C:\Users\Bryan\OneDrive\Documentos\ues\ingienieria en sistemas\principuios de programacion\ClinicaMedicaDeEspecialidades_FIA\obj\Debug\net11.0\ProyectoClinica.AssemblyInfo.cs
+C:\Users\Bryan\OneDrive\Documentos\ues\ingienieria en sistemas\principuios de programacion\ClinicaMedicaDeEspecialidades_FIA\obj\Debug\net11.0\ProyectoClinica.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\OneDrive\Documentos\ues\ingienieria en sistemas\principuios de programacion\ClinicaMedicaDeEspecialidades_FIA\obj\Debug\net11.0\ProyectoClinica.sourcelink.json
+C:\Users\Bryan\OneDrive\Documentos\ues\ingienieria en sistemas\principuios de programacion\ClinicaMedicaDeEspecialidades_FIA\obj\Debug\net11.0\ProyectoClinica.dll
+C:\Users\Bryan\OneDrive\Documentos\ues\ingienieria en sistemas\principuios de programacion\ClinicaMedicaDeEspecialidades_FIA\obj\Debug\net11.0\refint\ProyectoClinica.dll
+C:\Users\Bryan\OneDrive\Documentos\ues\ingienieria en sistemas\principuios de programacion\ClinicaMedicaDeEspecialidades_FIA\obj\Debug\net11.0\ProyectoClinica.pdb
+C:\Users\Bryan\OneDrive\Documentos\ues\ingienieria en sistemas\principuios de programacion\ClinicaMedicaDeEspecialidades_FIA\obj\Debug\net11.0\ProyectoClinica.genruntimeconfig.cache
+C:\Users\Bryan\OneDrive\Documentos\ues\ingienieria en sistemas\principuios de programacion\ClinicaMedicaDeEspecialidades_FIA\obj\Debug\net11.0\ref\ProyectoClinica.dll
