@@ -10,4 +10,3 @@ double[] costos = new double[100];
 char[] estados = new char[100];            // A (Atendida), C (Cancelada), P (Pendiente)
 int[] formasPago = new int[100];           // 1 (Efectivo), 2 (Tarjeta), 3 (Seguro)
 int[] calificaciones = new int[100];       // 1 al 5 (solo si estado es 'A')
-
